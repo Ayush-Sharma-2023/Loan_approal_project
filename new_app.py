@@ -5,6 +5,7 @@ import pandas as pd
 import requests
 import json
 import plotly.express as px
+import plotly
 from math import ceil
 from html import escape
 
